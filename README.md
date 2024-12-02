@@ -1,2 +1,2 @@
 # Tumabot
-Chatbot using Llama2
+Chatbot using Llama3
